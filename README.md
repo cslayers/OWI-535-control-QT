@@ -25,7 +25,7 @@ Usage:
 There are 5 motors and A LED on the OWI-535 on the machine.
 
    | code| name    | up(KEY) | down |
-   | :-----| ----: | :----: |  :----:|
+   | :---| ------: | :-----: | :--: |
    | M1  | grip    | 1       | Q    |
    | M2  | wrist   | 2       | W    |
    | M3  | elbow   | 3       | E    |
