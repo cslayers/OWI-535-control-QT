@@ -17,4 +17,4 @@ Usage:
   
   
   
-There is 5 motors and A LED on the OWI-535 on the machine. 
+There are 5 motors and A LED on the OWI-535 on the machine. 
