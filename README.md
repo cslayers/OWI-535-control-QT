@@ -33,6 +33,7 @@ There are 5 motors and A LED on the OWI-535 on the machine.
    | M5  | roate   | 5       | T    |
    | L   | Light   | L       | .    |
    | P   | stop    | P       |      |
+   | F   | flash   | F       |      |
 
 Press the key and the machine will do the corresponding action, and will stop when the key is released.
 
