@@ -33,11 +33,13 @@ LIBS += -L/usr/local/Cellar/libusb/1.0.22/lib -lusb-1.0
 SOURCES += \
         main.cpp \
         mainwidget.cpp \
-    control.cpp
+    control.cpp \
+    commander.cpp
 
 HEADERS += \
         mainwidget.h \
-    control.h
+    control.h \
+    commander.h
 
 FORMS += \
         mainwidget.ui
