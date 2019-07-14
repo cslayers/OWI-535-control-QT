@@ -17,6 +17,7 @@ MainWidget::MainWidget(QWidget *parent) :
 MainWidget::~MainWidget()
 {
     delete ui;
+    delete commander;
 }
 
 void MainWidget::keyPressEvent(QKeyEvent *event)
