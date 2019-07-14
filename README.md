@@ -1,8 +1,13 @@
 # OWI-535-control-QT
 A OWI-535 control App with GUI using Qt.
 
+This App is develop to the keyboard to control the OWI-535 arm, given that the CD only provide tools for Windows.
+
+
 Part of the code is from the blog **NOTBRAINSURGERY**, which was publised at https://notbrainsurgery.livejournal.com/38622.html
 <br/> <br/> 
+
+
 
 
 To use this project, please star it.
