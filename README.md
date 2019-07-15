@@ -13,7 +13,7 @@ Part of the code is from the blog **NOTBRAINSURGERY**, which was publised at htt
 To use this project, please star it.
 <br/> <br/> 
 
-Usage:
+# Usage:
   
   Use the Qt Creator to open the .pro file, then compile it.
   
