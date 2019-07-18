@@ -105,9 +105,10 @@ void MainWidget::keyReleaseEvent(QKeyEvent *event)
 void MainWidget::updateDeviceList()
 {
     if(commander->isDeviceExist())
-        this->ui->label->setText("设备已连接。");
-    else{
-        this->ui->label->setText("未连接设备。");
+        this->ui->label->setText("device connected");
+    else
+    {
+        this->ui->label->setText("no device found");
     }
 }
 

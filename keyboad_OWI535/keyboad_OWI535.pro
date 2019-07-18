@@ -25,6 +25,9 @@ DEFINES += QT_DEPRECATED_WARNINGS
 INCLUDEPATH += /usr/local/Cellar/libusb/1.0.22/include/
 LIBS += -L/usr/local/Cellar/libusb/1.0.22/lib -lusb-1.0
 
+#for my windows host
+#INCLUDEPATH += C:\Users\cslay\Downloads\20190715\github\libusb-1.0.22.7\include
+#LIBS += -LC:\Users\cslay\Downloads\20190715\github\libusb-1.0.22.7\MS64\dll\ -llibusb-1.0
 
 
 
