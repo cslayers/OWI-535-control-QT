@@ -26,6 +26,7 @@ Part of the code is from the blog **NOTBRAINSURGERY**, which was publised at htt
   with the terminal.
  <br/><br/> <br/> 
   
+  To make it work on Windows 10, I use Zadig to replace the driver that Windows installed automatically. Before this, I failed to open the device, where it return the error number -12 when calling libusb_open.
 
 
 
